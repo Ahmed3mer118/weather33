@@ -1,0 +1,56 @@
+{
+    "name":"ahmed",
+    "number":1500,
+    "boolean":true,
+    "product":[
+        {
+            "id": 1,
+            "name": "T-shirt",
+            "image": "image 1.jpg",
+            "price": 200
+        },
+        {
+            "id": 2,
+            "name": "T-shirt",
+            "image": "image 2.jpg",
+            "price": 300
+        }
+        ,
+        {
+            "id": 3,
+            "name": "T-shirt",
+            "image": "image 3.jpg",
+            "price": 350
+        },
+        {
+            "id": 4,
+            "name": "Smart Watch",
+            "image": "image 4.png",
+            "price": 300
+        }
+        ,
+        {
+            "id": 5,
+            "name": "Smart Watch",
+            "image": "image 5.png",
+            "price": 600
+        }
+        ,
+        {
+            "id": 6,
+            "name": "Smart Watch",
+            "image": "image 6.png",
+            "price": 400
+        }
+        ,
+        {
+            "id": 7,
+            "name": "Smart Watch",
+            "image": "image 4.png",
+            "price": 400
+    
+        }
+    
+    
+    ]
+}
